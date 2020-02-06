@@ -1,6 +1,0 @@
-C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\DemoSearchingAlgorithms\DemoSearchingAlgorithms\bin\Debug\DemoSearchingAlgorithms.exe.config
-C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\DemoSearchingAlgorithms\DemoSearchingAlgorithms\bin\Debug\DemoSearchingAlgorithms.exe
-C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\DemoSearchingAlgorithms\DemoSearchingAlgorithms\bin\Debug\DemoSearchingAlgorithms.pdb
-C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\DemoSearchingAlgorithms\DemoSearchingAlgorithms\obj\Debug\DemoSearchingAlgorithms.csprojAssemblyReference.cache
-C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\DemoSearchingAlgorithms\DemoSearchingAlgorithms\obj\Debug\DemoSearchingAlgorithms.exe
-C:\Users\c.wijesinghe\Documents\Developments\Mine\DotNet\DemoSearchingAlgorithms\DemoSearchingAlgorithms\obj\Debug\DemoSearchingAlgorithms.pdb
